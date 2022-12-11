@@ -1,0 +1,1065 @@
+ /* Extra small devices (phones, 600px and down) */
+ @media only screen and (max-width: 600px) {
+
+
+    .navbar-brand{
+        opacity: 1;
+    }
+    .nav-item{
+       
+        text-align: center;
+        color: black;
+       
+    }
+    #videobg{
+        width: 100%;
+        height: auto;
+    }
+    body{
+        background-color: #003912;
+    }
+    nav{
+       background-color: black;
+       opacity: .8;
+       color: white;
+    }
+    .brazil{
+        color: white;
+        position: relative;
+        top: -180px;
+        font-size: 8px;
+        width: 70%;
+        margin-left: 10px;
+        padding: 10px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .records{
+           
+        height: 300px;
+        background-color: brown;
+        width: 100%;
+        text-align: center;
+        position: relative;
+        color: white;
+        top: -157px;
+    }
+    .counter{
+        text-align: center;
+        display: inline-flex;
+        padding: 20px;
+    
+    }
+    .counter h3{
+        padding-left: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 15px;
+        
+    }
+    .head2{
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 600;
+    }
+    #c1{
+        margin-left: 10px;
+    }
+    #c2{
+        margin-left: -10px;
+    
+        
+        
+    
+    }
+    #c3{
+        margin-left: 10px;
+    }
+    .content{
+        opacity: .0;
+        position: absolute;
+        top:0px ;
+        height: 200px;
+        width: 147px;
+    }
+    .content:hover{
+        padding-top: 80px;
+        opacity: .8;
+        text-align: center;
+        font-weight: 900;
+        background-color: #ff3385;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    .content h1:hover{
+        font-weight: 600;
+        font-size: 35px;
+    }
+    .content1{
+        opacity: .0;
+        position: absolute;
+        top:0px ;
+        height: 200px;
+        width: 147px;
+    
+    }
+    .content1:hover{
+        padding-top: 80px;
+        opacity: .8;
+        text-align: center;
+        font-weight: 900;
+        background-color: #ff3385;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    .content1 h1:hover{
+        font-weight: 600;
+        font-size: 35px;
+    }
+    .content2{
+        opacity: 0;
+        position: absolute;
+        top:0px ;
+        height: 200px;
+        width: 147px;
+    
+    }
+    .content2:hover{
+        padding-top: 80px;
+        opacity: 0.8;
+        text-align: center;
+        font-weight: 900;
+        background-color: #ff3385;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    .content2 h1:hover{
+        font-weight: 600;
+        font-size: 35px;
+    }
+    #cont{
+        margin-left: 0px;
+        position: absolute;
+        top: 700px;
+        
+    }
+    #flagbg{
+        position: absolute;
+        top: 675px;
+        width: 100%;
+        height: 200px;
+    }
+    .squad{
+        position:absolute;
+        top:-50px;
+        left: 150px;
+        font-weight: 800;
+        color: #ffcc00;
+    }
+    #gallery{
+        position: absolute;
+        top: 1290px;
+        left: 0px;
+       }
+       #gll{
+        color: #ffcc00;
+        text-align: center;
+        font-weight: 800;
+       }
+       #contact{
+        position: absolute;
+        top: 1650px;
+        width: 100%;
+        left: 0px;
+       }
+       .form-control{
+        background-color: #003912;
+       }
+      
+       .contact-title{
+        color: #ffcc00;
+        font-weight: 800;
+        position: absolute;
+        font-size: 45px;
+        left: 140px;
+        top: -70px;
+       }
+       .footer{
+        padding-top: 20px;
+        position: absolute;
+        text-align: center;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        top: 2050px;
+        height: 150px;
+        width: 100%;
+        background-color: black;
+        opacity: 0.5;
+       }
+    
+     }
+    
+     /* Small devices (portrait tablets and large phones, 600px and up) */
+     @media only screen and (min-width: 600px) {
+        .navbar-brand{
+            opacity: 1;
+        }
+            
+    .nav-item{
+       
+        text-align: center;
+        color: black;
+       
+    }
+    #videobg{
+        width: 100%;
+        height: auto;
+    }
+    body{
+        background-color: #003912;
+    }
+    nav{
+       background-color: black;
+       opacity: .8;
+       color: white;
+    }
+    .brazil{
+        color: white;
+        position: relative;
+        top: -180px;
+        font-size: 8px;
+        width: 70%;
+        margin-left: 10px;
+        padding: 10px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .records{
+           
+        height: 300px;
+        background-color: brown;
+        width: 100%;
+        text-align: center;
+        position: relative;
+        color: white;
+        top: -157px;
+    }
+    .counter{
+        text-align: center;
+        display: inline-flex;
+        padding: 20px;
+    
+    }
+    .counter h3{
+        padding-left: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 15px;
+        
+    }
+    .head2{
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 600;
+    }
+    #c1{
+        margin-left: 10px;
+    }
+    #c2{
+        margin-left: -10px;
+    
+        
+        
+    
+    }
+    #c3{
+        margin-left: 10px;
+    }
+    .content{
+        opacity: .0;
+        position: absolute;
+        top:0px ;
+        height: 200px;
+        width: 147px;
+    }
+    .content:hover{
+        padding-top: 80px;
+        opacity: .8;
+        text-align: center;
+        font-weight: 900;
+        background-color: #ff3385;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    .content h1:hover{
+        font-weight: 600;
+        font-size: 35px;
+    }
+    .content1{
+        opacity: .0;
+        position: absolute;
+        top:0px ;
+        height: 200px;
+        width: 147px;
+    
+    }
+    .content1:hover{
+        padding-top: 80px;
+        opacity: .8;
+        text-align: center;
+        font-weight: 900;
+        background-color: #ff3385;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    .content1 h1:hover{
+        font-weight: 600;
+        font-size: 35px;
+    }
+    .content2{
+        opacity: 0;
+        position: absolute;
+        top:0px ;
+        height: 200px;
+        width: 147px;
+    
+    }
+    .content2:hover{
+        padding-top: 80px;
+        opacity: 0.8;
+        text-align: center;
+        font-weight: 900;
+        background-color: #ff3385;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    .content2 h1:hover{
+        font-weight: 600;
+        font-size: 35px;
+    }
+    #cont{
+        margin-left: 0px;
+        position: absolute;
+        top: 770px;
+        
+    }
+    #flagbg{
+        position: absolute;
+        top: 715px;
+        width: 100%;
+        height: auto;
+    }
+    .squad{
+        position:absolute;
+        top:-50px;
+        left: 150px;
+        font-weight: 800;
+        color: #ffcc00;
+    }
+    #gallery{
+        position: absolute;
+        top: 1390px;
+        left: 0px;
+       }
+       #gll{
+        color: #ffcc00;
+        text-align: center;
+        font-weight: 800;
+       }
+       #contact{
+        position: absolute;
+        top: 1800px;
+        width: 100%;
+        left: 0px;
+       }
+       .form-control{
+        background-color: #003912;
+       }
+      
+       .contact-title{
+        color: #ffcc00;
+        font-weight: 800;
+        position: absolute;
+        font-size: 45px;
+        left: 140px;
+        top: -70px;
+       }
+       .footer{
+        padding-top: 20px;
+        position: absolute;
+        text-align: center;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        top: 2150px;
+        height: 150px;
+        width: 100%;
+        background-color: black;
+        opacity: 0.5;
+       }
+    
+     }
+     
+     /* Medium devices (landscape tablets, 768px and up) */
+     @media only screen and (min-width: 768px) {
+        .navbar-brand{
+            opacity: 1;
+        }
+           
+    .nav-item{
+       
+        text-align: center;
+        color: black;
+       
+    }
+    #videobg{
+        width: 100%;
+        height: auto;
+    }
+    body{
+        background-color: #003912;
+    }
+    nav{
+       background-color: black;
+       opacity: .8;
+       color: white;
+    }
+    .brazil{
+        color: white;
+        position: relative;
+        top: -180px;
+        font-size: 8px;
+        width: 70%;
+        margin-left: 10px;
+        padding: 10px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .records{
+           
+        height: 300px;
+        background-color: brown;
+        width: 100%;
+        text-align: center;
+        position: relative;
+        color: white;
+        top: -157px;
+    }
+    .counter{
+        text-align: center;
+        display: inline-flex;
+        padding: 20px;
+    
+    }
+    .counter h3{
+        padding-left: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 15px;
+        
+    }
+    .head2{
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 600;
+    }
+    #c1{
+        margin-left: 10px;
+    }
+    #c2{
+        margin-left: -10px;
+    
+        
+        
+    
+    }
+    #c3{
+        margin-left: 10px;
+    }
+    .content{
+        opacity: .0;
+        position: absolute;
+        top:0px ;
+        height: 200px;
+        width: 147px;
+    }
+    .content:hover{
+        padding-top: 80px;
+        opacity: .8;
+        text-align: center;
+        font-weight: 900;
+        background-color: #ff3385;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    .content h1:hover{
+        font-weight: 600;
+        font-size: 35px;
+    }
+    .content1{
+        opacity: .0;
+        position: absolute;
+        top:0px ;
+        height: 200px;
+        width: 147px;
+    
+    }
+    .content1:hover{
+        padding-top: 80px;
+        opacity: .8;
+        text-align: center;
+        font-weight: 900;
+        background-color: #ff3385;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    .content1 h1:hover{
+        font-weight: 600;
+        font-size: 35px;
+    }
+    .content2{
+        opacity: 0;
+        position: absolute;
+        top:0px ;
+        height: 200px;
+        width: 147px;
+    
+    }
+    .content2:hover{
+        padding-top: 80px;
+        opacity: 0.8;
+        text-align: center;
+        font-weight: 900;
+        background-color: #ff3385;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    .content2 h1:hover{
+        font-weight: 600;
+        font-size: 35px;
+    }
+    #cont{
+        margin-left: 0px;
+        position: absolute;
+        top: 860px;
+        
+    }
+    #flagbg{
+        position: absolute;
+        top: 800px;
+        width: 100%;
+        height: auto;
+    }
+    .squad{
+        position:absolute;
+        top:-50px;
+        left: 150px;
+        font-weight: 800;
+        color: #ffcc00;
+    }
+    #gallery{
+        position: absolute;
+        top: 1490px;
+        left: 0px;
+       }
+       #gll{
+        color: #ffcc00;
+        text-align: center;
+        font-weight: 800;
+       }
+       #contact{
+        position: absolute;
+        top: 2000px;
+        width: 100%;
+        left: 0px;
+       }
+       .form-control{
+        background-color: #003912;
+       }
+      
+       .contact-title{
+        color: #ffcc00;
+        font-weight: 800;
+        position: absolute;
+        font-size: 45px;
+        left: 140px;
+        top: -70px;
+       }
+       .footer{
+        padding-top: 20px;
+        position: absolute;
+        text-align: center;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        top: 2350px;
+        height: 150px;
+        width: 100%;
+        background-color: black;
+        opacity: 0.5;
+       }
+    
+     }
+     
+     /* Large devices (laptops/desktops, 992px and up) */
+     @media only screen and (min-width: 992px) {
+        .nav-item{
+            font-size: 20px;
+            text-align: center;
+            padding-left: 50px;
+            padding-right: 50px;
+            border-radius: 10px;
+            margin-left: 50px;
+            display: flex;
+            
+        }
+        .team{
+            background-color: brown;
+            height: 500px;
+            display: flex;
+           
+        }
+        .nav-item:hover{
+            border: 2px solid #ffcc00;
+        }
+        #videobg{
+            width: 100%;
+            height: auto;
+            
+            
+        }
+        .navbar-brand{
+            opacity: 0;
+        }
+        
+        .content{
+            opacity: .0;
+            position: absolute;
+            top:0px ;
+            height: 200px;
+            width: 170px;
+        }
+        .content:hover{
+            padding-top: 80px;
+            opacity: .8;
+            text-align: center;
+            font-weight: 900;
+            background-color: #ff3385;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+    
+        }
+        .content h1:hover{
+            font-weight: 600;
+            font-size: 30px;
+        }
+        .content1{
+            opacity: 0;
+            position: absolute;
+            top:0px ;
+            height: 200px;
+            width: 170px;
+    
+        }
+        .content1:hover{
+            padding-top: 80px;
+            opacity: .9;
+            text-align: center;
+            font-weight: 900;
+            background-color: #ff3385;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+    
+        }
+        .content1 h1:hover{
+            font-weight: 600;
+            font-size: 35px;
+        }
+        .content h1:hover{
+            font-weight: 600;
+            font-size: 30px;
+        }
+        .content2{
+            opacity: 0;
+            position: absolute;
+            top:0px ;
+            height: 200px;
+            width: 170px;
+    
+        }
+        .content2:hover{
+            padding-top: 80px;
+            opacity: 0.8;
+            text-align: center;
+            font-weight: 900;
+            background-color: #ff3385;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+    
+        }
+        .content2 h1:hover{
+            font-weight: 600;
+            font-size: 30px;
+        }
+      
+        #cont{
+            position: absolute;
+            top: 1250px;
+            margin-left: 50px;
+            padding-left: 80px;
+        }
+        nav{
+           background-color: black;
+        }
+        .brazil{
+            color: white;
+            position: relative;
+            top: -600px;
+            width: 50%;
+            font-size: 20px;
+            margin-left: 40px;
+            padding: 20px;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        #braz{
+            padding-bottom: 20px;
+            color: #ffcc00;
+            font-size: 80px;
+        }
+        .head1{
+            position: absolute;
+            left: 50%;
+    
+        }
+        
+        .records{
+           
+            height: 500px;
+            background-color: brown;
+            text-align: center;
+            position: relative;
+            color: white;
+            top: -400px;
+        }
+        .counter{
+            text-align: center;
+            display: flex;
+            padding: 20px;
+    
+        }
+        .counter h3{
+            padding-left: 50px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 30px;
+            
+        }
+        .head2{
+            font-size: 50px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 600;
+        }
+        #c1{
+            margin-left: 200px;
+        }
+        #c2{
+            margin-left: 20px;
+    
+        }
+        #c3{
+            margin-left: 200px;
+        }
+        .p1{
+            height: 250px;
+            
+        }
+        #flagbg{
+            position: absolute;
+            top: 1150px;
+            width: 100%;
+            height: auto;
+        }
+        .squad{
+           position:absolute;
+           top: -70px;
+           left: 300px;
+           font-weight: 800;
+           color: #ffcc00;
+    
+        }
+       #gallery{
+        position: absolute;
+        top: 2050px;
+        left: 20px;
+       }
+       #gll{
+        color: #ffcc00;
+        text-align: center;
+        font-weight: 800;
+        position: absolute;
+        top: -70px;
+        left: 350px;
+       }
+       #contact{
+        position: absolute;
+        top: 2700px;
+        width: 100%;
+        left: 120px;
+       }
+       .form-control{
+        background-color: #003912;
+       }
+      
+       .contact-title{
+        color: #ffcc00;
+        font-weight: 800;
+        position: absolute;
+        font-size: 45px;
+        left: 250px;
+        top: -100px;
+       }
+       .footer{
+        padding-top: 20px;
+        position: absolute;
+        text-align: center;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        top: 3100px;
+        height: 150px;
+        width: 100%;
+        background-color: black;
+        opacity: 0.5;
+       }
+     }
+     
+     
+     /* Extra large devices (large laptops and desktops, 1200px and up) */
+     @media only screen and (min-width: 1200px) {
+    
+        .nav-item{
+            font-size: 20px;
+            text-align: center;
+            padding-left: 50px;
+            padding-right: 50px;
+            border-radius: 10px;
+            margin-left: 50px;
+            display: flex;
+            
+        }
+        .team{
+            background-color: brown;
+            height: 500px;
+            display: flex;
+           
+        }
+        .navbar-brand{
+            opacity: 0;
+        }
+        .nav-item:hover{
+            border: 2px solid #ffcc00;
+        }
+        #videobg{
+            width: 100%;
+            height: auto;
+            
+            
+        }
+        
+        .content{
+            opacity: .0;
+            position: absolute;
+            top:0px ;
+            height: 200px;
+            width: 170px;
+        }
+        .content:hover{
+            padding-top: 80px;
+            opacity: .8;
+            text-align: center;
+            font-weight: 900;
+            background-color: #ff3385;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+    
+        }
+        .content h1:hover{
+            font-weight: 600;
+            font-size: 30px;
+        }
+        .content1{
+            opacity: 0;
+            position: absolute;
+            top:0px ;
+            height: 200px;
+            width: 170px;
+    
+        }
+        .content1:hover{
+            padding-top: 80px;
+            opacity: .9;
+            text-align: center;
+            font-weight: 900;
+            background-color: #ff3385;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+    
+        }
+        .content1 h1:hover{
+            font-weight: 600;
+            font-size: 35px;
+        }
+        .content h1:hover{
+            font-weight: 600;
+            font-size: 30px;
+        }
+        .content2{
+            opacity: 0;
+            position: absolute;
+            top:0px ;
+            height: 200px;
+            width: 170px;
+    
+        }
+        .content2:hover{
+            padding-top: 80px;
+            opacity: 0.8;
+            text-align: center;
+            font-weight: 900;
+            background-color: #ff3385;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+    
+        }
+        .content2 h1:hover{
+            font-weight: 600;
+            font-size: 30px;
+        }
+      
+        #cont{
+            position: absolute;
+            top: 1400px;
+            margin-left: 100px;
+            padding-left: 80px;
+        }
+        nav{
+           background-color: black;
+        }
+        .brazil{
+            color: white;
+            position: relative;
+            top: -600px;
+            width: 50%;
+            font-size: 20px;
+            margin-left: 40px;
+            padding: 20px;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        #braz{
+            padding-bottom: 20px;
+            color: #ffcc00;
+            font-size: 80px;
+        }
+        .head1{
+            position: absolute;
+            left: 50%;
+    
+        }
+        
+        .records{
+           
+            height: 500px;
+            background-color: brown;
+            text-align: center;
+            position: relative;
+            color: white;
+            top: -400px;
+        }
+        .counter{
+            text-align: center;
+            display: flex;
+            padding: 20px;
+    
+        }
+        .counter h3{
+            padding-left: 50px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 30px;
+            
+        }
+        .head2{
+            font-size: 50px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: 600;
+        }
+        #c1{
+            margin-left: 360px;
+        }
+        #c2{
+            margin-left: 120px;
+    
+        }
+        #c3{
+            margin-left: 400px;
+        }
+        .p1{
+            height: 250px;
+            
+        }
+        #flagbg{
+            position: absolute;
+            top: 900px;
+            width: 100%;
+            height: 1700px;
+        }
+        .squad{
+           position:absolute;
+           top: -80px;
+           left: 500px;
+           font-weight: 800;
+           color: #ffcc00;
+    
+        }
+       #gallery{
+        position: absolute;
+        top: 2250px;
+        left: 100px;
+       }
+       #gll{
+        color: #ffcc00;
+        text-align: center;
+        font-weight: 800;
+        position: absolute;
+        top: -100px;
+        left: 500px;
+       }
+       #contact{
+        position: absolute;
+        top: 3000px;
+        width: 100%;
+        left: 220px;
+       }
+       .form-control{
+        background-color: #003912;
+       }
+      
+       .contact-title{
+        color: #ffcc00;
+        font-weight: 800;
+        position: absolute;
+        font-size: 45px;
+        left: 250px;
+        top: -100px;
+       }
+       .footer{
+        padding-top: 20px;
+        position: absolute;
+        text-align: center;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        top: 3400px;
+        height: 150px;
+        width: 100%;
+        background-color: black;
+        opacity: 0.5;
+       }
+     } 

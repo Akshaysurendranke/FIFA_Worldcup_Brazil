@@ -1,0 +1,142 @@
+
+.counter1 h4{
+   margin-left: 50px;
+
+
+}
+.counter1 h3{
+    margin-left: 10px;
+
+    
+}
+
+.img1{
+margin-left: 60px;
+margin-bottom: 70px;
+
+}
+
+@media only screen and (max-width: 992px) {
+    .counter1{
+       
+        display: flex;
+        position: relative;
+        top: -330px;
+        left: 30%;
+        width: 70%;
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+   
+    .head1{
+        font-size: 65px;
+        position: relative;
+        font-weight: 900;
+        left: 55%;
+        color: #ffd633;
+    }
+    .para{
+        font-size: 18px;
+        color: white;
+        font-weight: 700;
+        margin: 10px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .Neymar{
+        margin-top: 100px;
+        
+        background-image: url("images/teambg.jpg");
+        background-position: center;
+        background-size: contain;
+        height: max-content;
+        color: white;
+    }
+    body{
+       background-color: darkolivegreen;
+        
+
+    }
+
+}
+@media only screen and (max-width: 1400px) {
+    .counter1{
+       
+        display: flex;
+        position: relative;
+        top: -330px;
+        left: 30%;
+        width: 70%;
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+   
+    .head1{
+        font-size: 65px;
+        position: relative;
+        font-weight: 900;
+        left: 55%;
+        color: #ffd633;
+    }
+    .para{
+        font-size: 18px;
+        color: white;
+        font-weight: 700;
+        margin: 10px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .Neymar{
+        margin-top: 100px;
+        
+        background-image: url("images/teambg.jpg");
+        background-position: center;
+        background-size: contain;
+        height: max-content;
+        color: white;
+    }
+    body{
+       background-color: darkolivegreen;
+        
+
+    }
+    
+}
+@media only screen and (max-width: 760px) {
+    body{
+        background-color: darkolivegreen;
+        color: white;
+    }
+    .img1{
+        margin-left: 90px;
+
+    }
+    .head1{
+        position: relative;
+        left: 90px;
+        font-size: 40px;
+    }
+    .counter1{
+        background-color: purple;
+        width: 100%;
+        font-size: 16px;
+        position: relative;
+        left: 0px;
+        top: -260px;
+        display: flex;
+        background-color: darkgreen;
+        color: yellow;
+    }
+    .para{
+        position: relative;
+        top: 40px;
+        color: #ffd633;
+        font-weight: 600;
+        }
+        .Neymar{
+        
+            background-image: url("images/teambg.jpg");
+            background-position: center;
+            background-size: contain;
+           
+            
+        }
+}
