@@ -65,10 +65,6 @@
     }
     #c2{
         margin-left: -10px;
-    
-        
-        
-    
     }
     #c3{
         margin-left: 10px;
@@ -77,11 +73,11 @@
         opacity: .0;
         position: absolute;
         top:0px ;
-        height: 200px;
-        width: 147px;
+        height: 150px;
+        width: 130px;
     }
     .content:hover{
-        padding-top: 80px;
+        padding-top: 30px;
         opacity: .8;
         text-align: center;
         font-weight: 900;
@@ -92,43 +88,43 @@
     }
     .content h1:hover{
         font-weight: 600;
-        font-size: 35px;
+        font-size: 25px;
     }
     .content1{
         opacity: .0;
         position: absolute;
         top:0px ;
-        height: 200px;
-        width: 147px;
+        height: 150px;
+        width: 130px;
+        font-size: 10px;
     
     }
     .content1:hover{
-        padding-top: 80px;
         opacity: .8;
         text-align: center;
-        font-weight: 900;
+        font-size: 7px;
         background-color: #ff3385;
         color: white;
-        font-family: Arial, Helvetica, sans-serif;
     
     }
     .content1 h1:hover{
+        padding-top: 30px;
         font-weight: 600;
-        font-size: 35px;
+        font-size: 25px;
     }
     .content2{
         opacity: 0;
         position: absolute;
         top:0px ;
-        height: 200px;
-        width: 147px;
+        height: 150px;
+        width: 130px;
+        
     
     }
     .content2:hover{
-        padding-top: 80px;
+        padding-top: 0px;
         opacity: 0.8;
         text-align: center;
-        font-weight: 900;
         background-color: #ff3385;
         color: white;
         font-family: Arial, Helvetica, sans-serif;
@@ -136,19 +132,24 @@
     }
     .content2 h1:hover{
         font-weight: 600;
-        font-size: 35px;
+        font-size: 25px;
     }
     #cont{
         margin-left: 0px;
         position: absolute;
-        top: 700px;
+        top: 730px;
         
     }
     #flagbg{
         position: absolute;
         top: 675px;
         width: 100%;
-        height: 200px;
+        height: auto;
+    }
+
+    .player{
+        height:150px ;
+        width:130px ;
     }
     .squad{
         position:absolute;
@@ -159,7 +160,7 @@
     }
     #gallery{
         position: absolute;
-        top: 1290px;
+        top: 1190px;
         left: 0px;
        }
        #gll{
@@ -169,7 +170,7 @@
        }
        #contact{
         position: absolute;
-        top: 1650px;
+        top: 1550px;
         width: 100%;
         left: 0px;
        }
@@ -182,7 +183,7 @@
         font-weight: 800;
         position: absolute;
         font-size: 45px;
-        left: 140px;
+        left: 120px;
         top: -70px;
        }
        .footer{
@@ -191,7 +192,7 @@
         text-align: center;
         color: white;
         font-family: Arial, Helvetica, sans-serif;
-        top: 2050px;
+        top: 1950px;
         height: 150px;
         width: 100%;
         background-color: black;
@@ -266,11 +267,8 @@
     }
     #c2{
         margin-left: -10px;
-    
-        
-        
-    
     }
+  
     #c3{
         margin-left: 10px;
     }
@@ -279,7 +277,7 @@
         position: absolute;
         top:0px ;
         height: 200px;
-        width: 147px;
+        width: 170px;
     }
     .content:hover{
         padding-top: 80px;
@@ -300,7 +298,7 @@
         position: absolute;
         top:0px ;
         height: 200px;
-        width: 147px;
+        width: 170px;
     
     }
     .content1:hover{
@@ -322,7 +320,7 @@
         position: absolute;
         top:0px ;
         height: 200px;
-        width: 147px;
+        width: 170px;
     
     }
     .content2:hover{
@@ -340,7 +338,7 @@
         font-size: 35px;
     }
     #cont{
-        margin-left: 0px;
+        margin-left: 50px;
         position: absolute;
         top: 770px;
         
@@ -354,14 +352,14 @@
     .squad{
         position:absolute;
         top:-50px;
-        left: 150px;
+        left: 210px;
         font-weight: 800;
         color: #ffcc00;
     }
     #gallery{
         position: absolute;
         top: 1390px;
-        left: 0px;
+        left: 60px;
        }
        #gll{
         color: #ffcc00;
@@ -383,7 +381,7 @@
         font-weight: 800;
         position: absolute;
         font-size: 45px;
-        left: 140px;
+        left: 160px;
         top: -70px;
        }
        .footer{
